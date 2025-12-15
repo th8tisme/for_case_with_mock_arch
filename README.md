@@ -1,0 +1,1 @@
+# for_case_with_mock_arch
